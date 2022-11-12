@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="United Airlines Scenarios" preserve-order="true">
+        <classes>
+            <class name="ActionItemFinal.ActionItem_6_Help" />
+            <class name="ActionItemFinal.ActionItem_6_MyTrips" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
