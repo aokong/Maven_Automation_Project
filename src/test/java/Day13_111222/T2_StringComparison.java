@@ -33,6 +33,7 @@ public class T2_StringComparison extends ReusableAnnotations {
     }//end of test 1
 
     //hello comment
+    //new comment
 
     @Test(priority = 1)
     public void tc002_verifyYahooSignInText() {
