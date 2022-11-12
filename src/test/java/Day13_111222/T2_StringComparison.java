@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 
 public class T2_StringComparison extends ReusableAnnotations {
-//new random comment
+
     @Test(priority = 1)
     public void tc001_verifyYahooPageTitle() throws InterruptedException {
         //first navigate to yahoo homepage
@@ -31,6 +31,7 @@ public class T2_StringComparison extends ReusableAnnotations {
 
 
     }//end of test 1
+    //comment
 
     @Test(priority = 1)
     public void tc002_verifyYahooSignInText() {
